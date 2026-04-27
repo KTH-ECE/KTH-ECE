@@ -1,16 +1,18 @@
-## Hi there 👋
+## Kim TaeHwan
+Electrical and Computer Engineering student at Sungkyunkwan University, 
+focused on semiconductor and robotics hardware.
 
-<!--
-**KTH-ECE/KTH-ECE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focus Areas
+- Embedded systems and microcontroller programming
+- Hardware-software integration
+- Signal acquisition and processing
 
-Here are some ideas to get you started:
+### Technical Skills
+*Familiar with:*
+- **Languages:** Python, MATLAB, C, Embedded C, C++
+- **Hardware:** Arduino Uno R3, Raspberry Pi Pico
+- **Tools:** Git, GitHub, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: [kimtaehwan1106@gmail.com](mailto:kimtaehwan1106@gmail.com)
+- LinkedIn: [taehwankim-skku](https://www.linkedin.com/in/taehwankim-skku)
