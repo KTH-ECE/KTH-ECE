@@ -10,8 +10,8 @@ focused on semiconductor and robotics hardware.
 ### Technical Skills
 *Familiar with:*
 - **Languages:** Python, MATLAB, C, Embedded C, C++
-- **Hardware:** Arduino Uno R3, Raspberry Pi Pico
-- **Tools:** Git, GitHub, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro
+- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi
+- **Tools:** Git, GitHub, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro, Autodesk Fusion
 
 ### Contact
 - Email: [kimtaehwan1106@gmail.com](mailto:kimtaehwan1106@gmail.com)
