@@ -11,7 +11,7 @@ focused on semiconductor and robotics hardware.
 *Familiar with:*
 - **Languages:** Python, MATLAB, C, Embedded C, C++
 - **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi
-- **Tools:** Git, GitHub, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro, Autodesk Fusion
+- **Tools:** Git, GitHub, MATLAB & SIMULINK, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro, Autodesk Fusion
 
 ### Contact
 - Email: [kimtaehwan1106@gmail.com](mailto:kimtaehwan1106@gmail.com)
