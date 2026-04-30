@@ -3,9 +3,12 @@ Electrical and Computer Engineering student at Sungkyunkwan University,
 focused on semiconductor and robotics hardware.
 
 ### Focus Areas
-- Embedded systems and microcontroller programming
+- Embedded systems
+- Analog circuits
+- Digital circuits
+- PCB design
+- Robotic arms
 - Hardware-software integration
-- Signal acquisition and processing
 
 ### Technical Skills
 *Familiar with:*
