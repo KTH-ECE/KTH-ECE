@@ -14,7 +14,7 @@ focused on hardware and embedded systems.
 *Familiar with:*
 - **Languages:** Python, MATLAB, C, Embedded C, C++
 - **Hardware:** Arduino, Raspberry Pi
-- **Tools:** Git, GitHub, MATLAB & SIMULINK, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro, Autodesk Fusion
+- **Tools/Software:** ROS2, Git, GitHub, MATLAB & SIMULINK, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Autodesk Fusion
 
 ### Contact
 - Email: [kimtaehwan1106@gmail.com](mailto:kimtaehwan1106@gmail.com)
