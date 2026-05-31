@@ -1,6 +1,6 @@
 ## Kim TaeHwan
 Electrical and Computer Engineering student at Sungkyunkwan University, 
-focused on semiconductor and robotics hardware.
+focused on hardware and embedded systems.
 
 ### Focus Areas
 - Embedded systems
@@ -13,7 +13,7 @@ focused on semiconductor and robotics hardware.
 ### Technical Skills
 *Familiar with:*
 - **Languages:** Python, MATLAB, C, Embedded C, C++
-- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi
+- **Hardware:** Arduino, Raspberry Pi
 - **Tools:** Git, GitHub, MATLAB & SIMULINK, VS Code, Visual Studio, Arduino IDE, LTspice, KiCad, Arctos Studio Pro, Autodesk Fusion
 
 ### Contact
